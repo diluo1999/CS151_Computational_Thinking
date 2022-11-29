@@ -1,0 +1,3 @@
+base FFA
+rule A f[----fA<gL>][-fA<gL>][+++fA<gL>]
+rule f FFf

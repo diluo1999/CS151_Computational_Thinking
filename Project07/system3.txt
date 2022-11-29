@@ -1,0 +1,2 @@
+base F--F--F
+rule F F+F--F+F
