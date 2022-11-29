@@ -1,0 +1,2 @@
+base F
+rule F FF-[-F+F+F<gL>]+[+F-F-F<rB>] FF+[+F-F-F<rB>]-[-F+F+F<gL>] FF+[-F+F+F<rB>]-[+F-F-F<gL>]
